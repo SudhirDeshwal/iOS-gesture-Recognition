@@ -45,7 +45,7 @@
         <!--First View Controller-->
         <scene sceneID="jdX-BU-6nc">
             <objects>
-                <viewController id="GQn-NG-cb0" customClass="FirstViewController" customModule="Sudhir_LAB6_n01324321" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="FirstViewController" id="GQn-NG-cb0" customClass="FirstViewController" customModule="Sudhir_LAB6_n01324321" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="18Q-kb-gui">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -60,7 +60,7 @@
         <!--Second View Controller-->
         <scene sceneID="JHZ-NZ-zl6">
             <objects>
-                <viewController id="1aM-SE-mWd" customClass="SecondViewController" customModule="Sudhir_LAB6_n01324321" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="SecondViewController" id="1aM-SE-mWd" customClass="SecondViewController" customModule="Sudhir_LAB6_n01324321" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="a6u-oY-vqc">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -75,7 +75,7 @@
         <!--Third View Controller-->
         <scene sceneID="AuF-JZ-pQh">
             <objects>
-                <viewController id="m79-LA-nZl" customClass="ThirdViewController" customModule="Sudhir_LAB6_n01324321" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="ThirdViewController" id="m79-LA-nZl" customClass="ThirdViewController" customModule="Sudhir_LAB6_n01324321" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="2x0-ph-FFx">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
